@@ -1,0 +1,24 @@
+.mint-search{
+    height: auto;
+}
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+ }
+ .el-upload--picture-card{
+    width: 74.8px;
+     height: 74.8px;
+     line-height: 74.8px;
+ }
+ .el-upload-list--picture-card .el-upload-list__item{
+    width: 74.8px;
+     height: 74.8px;
+     line-height: 74.8px;
+     margin: 0 2px 2px 0;
+
+ }
+ .el-upload-list--picture-card .el-upload-list__item:nth-child(5n+0){
+     margin-right: 0;
+ }
